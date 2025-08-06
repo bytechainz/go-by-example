@@ -19,3 +19,5 @@ func main() {
 
 	fmt.Println(math.Sin(n))
 }
+
+// https://gobyexample.com/switch
